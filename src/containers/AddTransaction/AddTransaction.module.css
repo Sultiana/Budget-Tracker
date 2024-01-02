@@ -1,0 +1,59 @@
+.transaction {
+    width: 200px;
+    margin: auto;
+    margin-top: 60px;
+    line-height: 2;
+    background-color: #c3e2c2;
+    padding: 30px;
+    border-radius: 10px;
+}
+  
+  .transaction h1,
+  h2,
+  h3,
+  h6 {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+  
+  .transaction label {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+  .transaction input, select {
+    width: 100%;
+}
+  
+  .submit {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+  
+  .transaction input[type="submit"] {
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #AFC8AD;
+}
+  
+  .transaction input[type="submit"]:hover {
+    background-color: #EAECCC;
+}
+  
+  .transaction p {
+    margin: 0;
+    color: red;
+    font-weight: bold;
+    font-size: 10px;
+}
+  
+  .transaction .login {
+    font-size: 18px;
+}
+  
+  .card_transaction {
+    display:flex;
+}

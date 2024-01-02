@@ -1,0 +1,93 @@
+.homepageContent {
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+
+.totalIncomeExpense {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.income {
+    background-color: #a1eebd;
+    padding: 10px;
+    width: 100%;
+    border-radius: 16px;
+}
+
+.expense {
+    background-color: #bf3131;
+    padding: 10px;
+    width: 100%;
+    border-radius: 16px;
+}
+
+.historyContent {
+    list-style: none;
+}
+
+.historyList {
+    margin: auto;
+    padding: 0;
+}
+
+.historyList li {
+    border: 1px solid black;
+    border-radius: 10px;
+    list-style: none;
+    margin: 15px;
+}
+
+.card {
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    align-items: center;
+    background-color: #f5f5f5;
+}
+
+.leftCard,
+.rightCard {
+    text-align: left;
+    margin: 0 50px;
+    width: 50%;
+}
+
+.filteringContent {
+    margin: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.filteringSection {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.filteringSection label {
+    font-size: 13px;
+}
+
+.filteringSection select,
+input {
+    border-radius: 6px;
+}
+
+.filteringSection select,
+.filteringSection input,
+.filteringSection button {
+    padding: 5px;
+}
+
+.search {
+    background-color: #afc8ad;
+    border-radius: 8px;
+}
+
+.search:hover {
+    background-color: #eaeccc;
+}

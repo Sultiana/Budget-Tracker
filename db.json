@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "putri@gmail.com",
+      "password": "$2a$10$gCw4oo2cZ0GEpQzG/H1qXevU/w3TLsChgiq9KVf7YDDquMh3pwcfK",
+      "username": "putri",
+      "id": 1
+    },
+    {
+      "email": "luthfan@gmail.com",
+      "password": "$2a$10$q2j7crKEr/9iNPA1duIH3e7QBZK3fqMfQScSt71N6g0Y4FnQAsB6S",
+      "username": "hardiantheja",
+      "id": 2
+    }
+  ]
+}

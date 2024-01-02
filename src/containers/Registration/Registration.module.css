@@ -1,0 +1,51 @@
+.registration {
+    width: 20%;
+    margin: auto;
+    margin-top: 50px;
+    line-height: 2;
+    background-color: #c3e2c2;
+    padding: 30px;
+    border-radius: 10px;
+  }
+  
+  .registration h1 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .registration label {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .registration input {
+    width: 100%;
+  }
+  
+  .submit {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .registration input[type="submit"] {
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #AFC8AD;
+  }
+  
+  .registration input[type="submit"]:hover {
+    background-color: #EAECCC;
+  }
+  
+  .registration p {
+    margin: 0;
+    color: red;
+    font-weight: bold;
+    font-size: 10px;
+  }
+  
+  .registration .login {
+    font-size: 18px;
+  }
+  

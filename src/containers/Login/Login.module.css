@@ -1,0 +1,53 @@
+.login {
+  width: 20%;
+  margin: auto;
+  margin-top: 40px;
+  line-height: 2;
+  background-color: #c3e2c2;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.login h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.login label {
+  font-size: 18px;
+  font-weight: 600;
+}
+.login input {
+  width: 100%;
+}
+
+.submit {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.login input[type="submit"] {
+  width: 100px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #AFC8AD;
+}
+
+.login input[type="submit"]:hover {
+  background-color: #EAECCC;
+}
+
+.login p {
+  margin: 0;
+  color: red;
+  font-weight: bold;
+  font-size: 10px;
+}
+
+.login .register {
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
